@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/methodlar/bin/Debug/net7.0/methodlar
+/Users/baris/Desktop/Pratik/methodlar/bin/Debug/net7.0/methodlar.deps.json
+/Users/baris/Desktop/Pratik/methodlar/bin/Debug/net7.0/methodlar.runtimeconfig.json
+/Users/baris/Desktop/Pratik/methodlar/bin/Debug/net7.0/methodlar.dll
+/Users/baris/Desktop/Pratik/methodlar/bin/Debug/net7.0/methodlar.pdb
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.dll
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/refint/methodlar.dll
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.pdb
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/methodlar.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/methodlar/obj/Debug/net7.0/ref/methodlar.dll
