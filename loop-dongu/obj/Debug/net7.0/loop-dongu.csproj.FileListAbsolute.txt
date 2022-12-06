@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/loop-dongu/bin/Debug/net7.0/loop-dongu
+/Users/baris/Desktop/Pratik/loop-dongu/bin/Debug/net7.0/loop-dongu.deps.json
+/Users/baris/Desktop/Pratik/loop-dongu/bin/Debug/net7.0/loop-dongu.runtimeconfig.json
+/Users/baris/Desktop/Pratik/loop-dongu/bin/Debug/net7.0/loop-dongu.dll
+/Users/baris/Desktop/Pratik/loop-dongu/bin/Debug/net7.0/loop-dongu.pdb
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.dll
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/refint/loop-dongu.dll
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.pdb
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/loop-dongu.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/loop-dongu/obj/Debug/net7.0/ref/loop-dongu.dll
