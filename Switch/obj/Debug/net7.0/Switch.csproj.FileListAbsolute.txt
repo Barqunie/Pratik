@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/Switch/bin/Debug/net7.0/Switch
+/Users/baris/Desktop/Pratik/Switch/bin/Debug/net7.0/Switch.deps.json
+/Users/baris/Desktop/Pratik/Switch/bin/Debug/net7.0/Switch.runtimeconfig.json
+/Users/baris/Desktop/Pratik/Switch/bin/Debug/net7.0/Switch.dll
+/Users/baris/Desktop/Pratik/Switch/bin/Debug/net7.0/Switch.pdb
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.dll
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/refint/Switch.dll
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.pdb
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/Switch.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/Switch/obj/Debug/net7.0/ref/Switch.dll

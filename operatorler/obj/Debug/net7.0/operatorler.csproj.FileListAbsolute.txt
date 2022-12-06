@@ -1,0 +1,5 @@
+/Users/baris/Desktop/Pratik/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache

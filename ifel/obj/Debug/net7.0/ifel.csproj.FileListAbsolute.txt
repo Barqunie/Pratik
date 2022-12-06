@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/ifel/bin/Debug/net7.0/ifel
+/Users/baris/Desktop/Pratik/ifel/bin/Debug/net7.0/ifel.deps.json
+/Users/baris/Desktop/Pratik/ifel/bin/Debug/net7.0/ifel.runtimeconfig.json
+/Users/baris/Desktop/Pratik/ifel/bin/Debug/net7.0/ifel.dll
+/Users/baris/Desktop/Pratik/ifel/bin/Debug/net7.0/ifel.pdb
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.dll
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/refint/ifel.dll
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.pdb
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ifel.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/ifel/obj/Debug/net7.0/ref/ifel.dll

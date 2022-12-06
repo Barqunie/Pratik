@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/hata-ayiklama/bin/Debug/net7.0/hata-ayiklama
+/Users/baris/Desktop/Pratik/hata-ayiklama/bin/Debug/net7.0/hata-ayiklama.deps.json
+/Users/baris/Desktop/Pratik/hata-ayiklama/bin/Debug/net7.0/hata-ayiklama.runtimeconfig.json
+/Users/baris/Desktop/Pratik/hata-ayiklama/bin/Debug/net7.0/hata-ayiklama.dll
+/Users/baris/Desktop/Pratik/hata-ayiklama/bin/Debug/net7.0/hata-ayiklama.pdb
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.dll
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/refint/hata-ayiklama.dll
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.pdb
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/hata-ayiklama.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/hata-ayiklama/obj/Debug/net7.0/ref/hata-ayiklama.dll

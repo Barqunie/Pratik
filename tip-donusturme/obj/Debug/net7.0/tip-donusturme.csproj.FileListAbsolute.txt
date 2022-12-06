@@ -1,0 +1,15 @@
+/Users/baris/Desktop/Pratik/tip-donusturme/bin/Debug/net7.0/tip-donusturme
+/Users/baris/Desktop/Pratik/tip-donusturme/bin/Debug/net7.0/tip-donusturme.deps.json
+/Users/baris/Desktop/Pratik/tip-donusturme/bin/Debug/net7.0/tip-donusturme.runtimeconfig.json
+/Users/baris/Desktop/Pratik/tip-donusturme/bin/Debug/net7.0/tip-donusturme.dll
+/Users/baris/Desktop/Pratik/tip-donusturme/bin/Debug/net7.0/tip-donusturme.pdb
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.csproj.AssemblyReference.cache
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.AssemblyInfoInputs.cache
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.AssemblyInfo.cs
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.csproj.CoreCompileInputs.cache
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.dll
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/refint/tip-donusturme.dll
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.pdb
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/tip-donusturme.genruntimeconfig.cache
+/Users/baris/Desktop/Pratik/tip-donusturme/obj/Debug/net7.0/ref/tip-donusturme.dll
